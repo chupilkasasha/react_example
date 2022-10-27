@@ -1,0 +1,23 @@
+.sitebar{
+  border: 1px solid black;
+  padding: 10px;
+  margin: 5px;
+}
+
+.sitebar{
+  grid-area: s;
+}
+.sitebar ul {
+  padding-left: 0;
+}
+
+.sitebar ul li{
+  list-style-type: none;
+  padding-left: 0;
+  font-size: 16px;
+  text-decoration: none;
+}
+.sitebar ul li a{
+  text-decoration: none;
+  color: green;
+}

@@ -1,0 +1,10 @@
+.Header-site-header{
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 5px;
+}
+.Header-site-header{
+  grid-area: h;
+
+}
